@@ -3,7 +3,3 @@ server:
 
 message: TEST1
 
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8765/eureka
